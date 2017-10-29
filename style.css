@@ -1,0 +1,25 @@
+img{
+    display: inline-block;
+    height:300px;
+    width:200px;
+    margin:11px;
+}
+#images{
+    width: 900px;
+    height: 650px;
+    background-color:grey;
+    margin:0 auto;
+}
+button{
+    background-color: green;
+    color:white;
+    width:70px;
+    height:20px;
+    margin-top: 30px;
+    display: block;
+}
+div{
+    display: inline-block;
+    height: 322px;
+    width: 222px;
+}
